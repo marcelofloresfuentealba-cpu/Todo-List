@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>Desafio 5 - ToDo List</title>
+  </head>
+  <body>
+    <div class="contenedor">
+      <h1>Todo List</h1>
+      <div class="d-in">
+        <label for="entrada">Nueva tarea</label>
+        <div class="d-in-btn">
+          <input id="input" placeholder="Tareas" name="entrada" type="text" />
+          <button id="btnAgregar">Agregar</button>
+        </div>
+      </div>
+      <div class="cont-info">
+        <div class="d-total">
+          <p>Total: <span id="spanTotal"> </span></p>
+          <p>Realizadas: <span id="spanRealizado"> </span></p>
+        </div>
+        <div class="d-info">
+          <div class="d-id">
+            <h5>ID</h5>
+            <h5>Tarea</h5>
+          </div>
+          <ul id="ulTarea" class="ul-tarea">
+            <!-- Info JS-->
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="divFinal" class="d-final">
+      <p id="pFinal" class="p-final">
+        <!-- JS -->
+      </p>
+      
+    </div>
+    <script src="assets/js/index.js"></script>
+  </body>
+</html>
