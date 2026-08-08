@@ -2,7 +2,7 @@
 
 Este proyecto consiste en una aplicación web interactiva de gestión de tareas pendientes (Todo List), desarrollada como parte de los desafíos de la academia Desafío Latam.
 
-# Link del desafío: 
+# Link del desafío: https://marcelofloresfuentealba-cpu.github.io/Todo-List/
 
 ## Descripción
 El objetivo es crear una página web dinámica que permita a los usuarios administrar sus tareas diarias. La aplicación permite visualizar un listado de tareas, agregar nuevas, marcar tareas como completadas y eliminarlas, manteniendo un resumen actualizado del progreso.
